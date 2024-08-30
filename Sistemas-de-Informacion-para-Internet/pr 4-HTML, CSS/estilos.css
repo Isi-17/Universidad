@@ -1,0 +1,84 @@
+.pr-programme {
+	border: 3px solid black;
+	font-family: sans-serif;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+  
+.pr-programme td, .pr-programme th {
+text-align: center;
+padding: 16px;
+}
+
+.titulo{
+background-color: #ffffff;
+color: #230a99;
+font-weight: bold;
+border: 3px solid black;
+font-size: 32px;
+}
+
+.pr-programme .th{
+background-color: #e7dfec;
+color: #230a99;
+font-weight: bold;
+border: 3px solid black;
+font-size: 20px;
+padding: 18px;
+
+}
+.hora{
+border: 1px solid black;
+font-weight: bold;
+padding: 18px;
+}
+
+.opt{
+background-color: #fdfc8d;
+border: 1px solid black;
+}
+.abd{
+background-color: #ceffcd;
+border: 1px solid black;
+}
+.si2{
+background-color: #fceadb;
+border: 1px solid black;
+}
+.sii{
+background-color: #e781d0;
+border: 1px solid black;
+}
+.menc{
+background-color: #e7dfec;
+border: 1px solid black;
+}
+
+.optN{
+background-color: #fdfc8d;
+border: 1px solid black;
+font-weight: bold;
+}
+.abdN{
+background-color: #ceffcd;
+border: 1px solid black;
+font-weight: bold;
+}
+.si2N{
+background-color: #fceadb;
+border: 1px solid black;
+font-weight: bold;
+}
+.siiN{
+background-color: #e781d0;
+border: 1px solid black;
+font-weight: bold;
+}
+.mencN{
+background-color: #e7dfec;
+border: 1px solid black;
+font-weight: bold;
+}
+
+
